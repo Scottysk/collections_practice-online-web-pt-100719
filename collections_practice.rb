@@ -3,5 +3,5 @@ def sort_array_asc(num_array)
 end
 
 def sort_array_desc(num_array)
-  num_array.sort {
+  num_array.sort {|x, y| 
 end
