@@ -37,9 +37,9 @@ def sum_array(sum)
   end
 end
 
-def add_s(array)
-  array.collect do |word|
-    if word[1] == word
+def add_s(s_array)
+  s_array.collect do |word|
+    if s_array[1] == word
       word
     else 
       word + "s"
