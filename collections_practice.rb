@@ -26,5 +26,6 @@ def kesha_maker(array)
 end
 
 def find_a(a)
-  a.select do |
+  a.select do |word|
+    
 end
