@@ -32,6 +32,7 @@ def find_a(a)
 end
 
 def sum_array(sum)
-  sum.inject do |
+  sum.inject do |num_one, num_two|
+    num_one + num_two
   end
 end
