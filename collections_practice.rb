@@ -18,3 +18,5 @@ end
 def reverse_array(rev_array)
   rev_array.reverse
 end
+
+def kesha_maker
