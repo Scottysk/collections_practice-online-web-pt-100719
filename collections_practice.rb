@@ -35,4 +35,5 @@ def sum_array(sum)
   numbers = 0
   sum.each do |add|
     numbers += add
+  end
 end
