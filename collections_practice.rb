@@ -27,5 +27,5 @@ end
 
 def find_a(a)
   a.select do |word|
-    
+    word.start_with
 end
