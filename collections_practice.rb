@@ -11,6 +11,6 @@ def sort_array_char_count(animal_array)
 end
 
 def swap_elements(array, index, destination_index)
-  
+  array[index]
   
 end
