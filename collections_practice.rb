@@ -30,3 +30,5 @@ def find_a(a)
     word.start_with?("a")
   end
 end
+
+def sum_array
