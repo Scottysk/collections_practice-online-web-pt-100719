@@ -38,6 +38,6 @@ def sum_array(sum)
 end
 
 def add_s(array)
-  array.each_with_index.collect do |
+  array.collect do |
   
 end
