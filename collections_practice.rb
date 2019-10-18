@@ -10,8 +10,6 @@ def sort_array_char_count(animal_array)
   animal_array.sort {|x, y| x.length <=> y.length}
 end
 
-def swap_elements(array, index, destination_index)
-  array[index], array[destination_index] = array[destination_index], array[index]
-  
+def swap_elements(array)
   
 end
