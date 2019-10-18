@@ -7,5 +7,5 @@ def sort_array_desc(num_array)
 end
 
 def sort_array_char_count(animal_array)
-  animal_array.sort {|x, y| x.length <=> y}
+  animal_array.sort {|x, y| x.length <=> y.length}
 end
