@@ -33,5 +33,5 @@ end
 
 def sum_array(sum)
   sum.each do |add|
-    
+    add +=
 end
